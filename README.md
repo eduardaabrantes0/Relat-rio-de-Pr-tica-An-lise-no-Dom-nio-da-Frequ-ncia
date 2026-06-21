@@ -86,6 +86,7 @@ Uso de:
 Gerador de funções
 Osciloscópio
 Simulação da resposta em frequência utilizando Python
+
 📊 Conclusão
 
 O experimento demonstrou, de forma teórica e prática, que o filtro RC passa-baixas:
@@ -94,10 +95,12 @@ O experimento demonstrou, de forma teórica e prática, que o filtro RC passa-ba
 Atenua sinais de alta frequência
 Permite a passagem de sinais de baixa frequência
 Apresenta frequência de corte consistente com os cálculos
+
 👨‍💻 Autores
 João Vitor Moreno Matos
 Eriklys Jonathan Gomes de Almeida
 Maria Eduarda Abrantes da Silva
+
 👨‍🏫 Professor
 
 Pedro Thiago Valério de Souza

@@ -6,24 +6,22 @@ Este repositório apresenta um experimento prático da disciplina Sinais e Siste
 
 O estudo envolve análise teórica, simulação computacional e validação experimental em laboratório.
 
-Objetivos
+  Objetivos
 Analisar: a estabilidade do sistema
 Obter a resposta em frequência (magnitude)
 Determinar a frequência de corte
 Verificar o comportamento do filtro com sinais senoidais
 Comparar resultados teóricos e experimentais
  
-
-Conclusão
+  Conclusão
 
 O experimento demonstrou, de forma teórica e prática, que o filtro RC passa-baixas:
-
 É estável
 Atenua sinais de alta frequência
 Permite a passagem de sinais de baixa frequência
 Apresenta frequência de corte consistente com os cálculos
 
-Autores:
+  Autores:
 
 Eriklys Jonathan Gomes de Almeida
 
@@ -31,7 +29,7 @@ João Vitor Moreno Matos
 
 Maria Eduarda Abrantes da Silva
 
-Professor:
+  Professor:
 
 Pedro Thiago Valério de Souza
 

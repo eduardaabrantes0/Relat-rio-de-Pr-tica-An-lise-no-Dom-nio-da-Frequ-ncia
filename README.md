@@ -6,8 +6,8 @@ Este repositório apresenta um experimento prático da disciplina Sinais e Siste
 
 O estudo envolve análise teórica, simulação computacional e validação experimental em laboratório.
 
-  Objetivos
-Analisar: a estabilidade do sistema
+  Objetivos:
+Analisar a estabilidade do sistema
 Obter a resposta em frequência (magnitude)
 Determinar a frequência de corte
 Verificar o comportamento do filtro com sinais senoidais
